@@ -1,0 +1,1 @@
+mongodb+srv://Mosaddiq:test123@cluster0.ibtsvis.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
